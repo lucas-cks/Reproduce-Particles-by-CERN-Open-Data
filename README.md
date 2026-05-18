@@ -22,7 +22,8 @@ Install the required scientific computing and visualization dependencies:
 pip install pandas numpy matplotlib seaborn scipy
 ```
 
-## Production Script: jpsi_reconstruction.py
+Production Script: jpsi_reconstruction.py
+Plot Result: jpsi_mass_spectrum.png
 
 ## Dataset Reference
 
