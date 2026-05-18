@@ -15,10 +15,12 @@ This project reads high-energy collision records dynamically, computes the invar
 * Automated Experimental Parameter Box: Generates an isolated statistical overview layout detailing detected resonance positions inside the chart space.
 
 ------------------------------
-## Code Setup## Prerequisites
+## Code Setup
+## Prerequisites
 Install the required scientific computing and visualization dependencies:
-
+```bash
 pip install pandas numpy matplotlib seaborn scipy
+```
 
 ## Production Script: jpsi_reconstruction.py
 
