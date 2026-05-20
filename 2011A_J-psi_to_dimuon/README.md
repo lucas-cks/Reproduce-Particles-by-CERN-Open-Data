@@ -26,9 +26,9 @@ This project reads high-energy collision records dynamically, computes the invar
 ## Repository Structure
 
 ```text
-├── Run2011AMuons.csv         # Raw dimuon data file 
-├── jpsi_reconstruction.py    # Production Python script executing physics pipe
-└── jpsi_mass_spectrum.png    # Spectroscopic readout
+├── Run2011AMuons.csv                # Raw dimuon data file 
+├── jpsi_reconstruction_dimuon.py    # Production Python script executing physics pipe
+└── jpsi_mass_spectrum_dimuon.png    # Spectroscopic readout
 
 ```
 
@@ -50,14 +50,14 @@ pip install pandas numpy matplotlib seaborn scipy
 Ensure your raw data asset is placed in the active project folder, then trigger the runtime script:
 
 ```bash
-python jpsi_reconstruction.py
+python jpsi_reconstruction_dimuon.py
 
 ```
 
 ---
 
 ## Plot Result
-![J/psi Mass Spectrum](jpsi_mass_spectrum.png)
+![J/psi Mass Spectrum](jpsi_mass_spectrum_dimuon.png)
 ---
 
 ## Dataset Reference
