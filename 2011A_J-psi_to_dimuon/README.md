@@ -1,4 +1,4 @@
-# Reproduction of J/ψ Meson by CERN Open Data (From Run2011A)
+# Reproduction of J/ψ Meson by CERN Open Data (Run2011A)
 
 ## Invariant Mass Spectrum Analysis: Reproducing Ting's J/ψ Discovery
 
