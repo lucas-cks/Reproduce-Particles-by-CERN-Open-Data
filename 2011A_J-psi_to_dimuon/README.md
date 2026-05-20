@@ -57,7 +57,7 @@ python jpsi_reconstruction.py
 ---
 
 ## Plot Result
-![J/psi Mass Spectrum](Jpsi_mass_spectrum.png)
+![J/psi Mass Spectrum](jpsi_mass_spectrum.png)
 ---
 
 ## Dataset Reference
