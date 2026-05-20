@@ -26,9 +26,9 @@ This project reads high-energy collision records dynamically, computes the invar
 ## Repository Structure
 
 ```text
-├── Run2011AMuons.csv         # Raw dimuon data file (User provided)
+├── Run2011AMuons.csv         # Raw dimuon data file 
 ├── jpsi_reconstruction.py    # Production Python script executing physics pipe
-└── jpsi_mass_spectrum.png    # High-resolution spectroscopic readout
+└── jpsi_mass_spectrum.png    # Spectroscopic readout
 
 ```
 
