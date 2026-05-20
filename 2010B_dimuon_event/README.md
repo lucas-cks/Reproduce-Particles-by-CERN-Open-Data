@@ -14,7 +14,7 @@ When colliding protons at relativistic velocities, quarks can annihilate or inte
 
 By extracting the energy ($E$) and three-momenta ($\vec{p}$) vectors of detected daughter leptons from raw collider telemetry, the invariant rest mass ($M_{\mu\mu}$) of the short-lived parent state can be structurally isolated mathematically via the relativistic energy-momentum invariant link:
 
-$$M_{\mu\mu} = \sqrt{(E_1 + E_2)^2 - \left[(\mathbf{p}_{x1} + \mathbf{p}_{x2})^2 + \mathbf{p}_{y1}^2 + \mathbf{p}_{y2}^2 + \mathbf{p}_{z1}^2 + \mathbf{p}_{z2}^2\right]}$$
+$$M_{\mu\mu} = \sqrt{(E_1 + E_2)^2 - \left[(\mathbf{p}_{x1} + \mathbf{p}_{x2})^2 + (\mathbf{p}_{y1} + \mathbf{p}_{y2})^2 + (\mathbf{p}_{z1} + \mathbf{p}_{z2})^2\right]}$$
 
 This codebase scans a highly broad mass scale dynamically, normalizing Kernel Density Estimations (KDE) to map absolute single-event tracking counts across multiple orders of magnitude.
 
@@ -72,6 +72,7 @@ python jpsi_z_reconstruction.py
 ## Plot Result
 
 The output diagram will automatically log-scale across a domain stretching from $2.0\text{ GeV}$ up to $110.0\text{ GeV}$.
+![Dimuon Invariant Mass Spectrum](dimuon_invariant_mass_spectrum.png)
 
 ---
 
