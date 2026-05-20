@@ -7,8 +7,8 @@ This repository contains Python scripts designed to dynamically analyse dimuon i
 In 1974, Samuel Ting's team at Brookhaven National Laboratory (BNL) discovered a massive, narrow resonance in the electron-positron ($e^+e^-$) spectrum at 3.1 GeV using a high-precision double-arm spectrometer. Concurrently, Burton Richter's team at SLAC discovered the same resonance in $e^+e^-$ collisions (naming it $\psi$). This discovery confirmed the existence of the charm quark ($c$), revolutionizing particle physics.
 This project reads high-energy collision records dynamically, computes the invariant mass of particle pairs, automatically identifies resonance states without hardcoded assumptions, and renders a continuous distribution line matching modern spectroscopic techniques.
 
-* $\(J/\psi\)$ meson $c\bar{c}$; Rest mass = $3.097 \frac{GeV}{c^2}$
-* First Excited State$\psi(2S)$; Rest mass = $3.686 \frac{GeV}{c^2}$
+* $J/\psi\$ meson $c\bar{c}$; Rest mass = $3.097 \frac{GeV}{c^2}$
+* First Excited State $\psi(2S)$; Rest mass = $3.686 \frac{GeV}{c^2}$
   
 ## Features
 
