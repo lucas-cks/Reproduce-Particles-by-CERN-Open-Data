@@ -24,3 +24,21 @@ Reproduces the J/ψ and ψ(2S) resonances following Samuel Ting's 1976 Nobel Lec
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy
+```
+
+---
+
+## Repository Structure
+
+```
+├── 2010B_dimuon_event/
+│   ├── MuRun2010B.csv
+│   ├── Dimuon_event.py
+│   └── dimuon_invariant_mass_spectrum.png
+│   └── README.md
+└── 2011A_J-psi_to_dimuon/
+    ├── Jpsimumu.csv
+    ├── jpsi_reconstruction_dimuon.py
+    └── jpsi_mass_spectrum_dimuon.png
+    └── README.md
+```
